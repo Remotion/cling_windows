@@ -1,7 +1,7 @@
 Cling - The Interactive C++ Interpreter
 =========================================
 
-[Cling](https://github.com/root-project/cling) build for Windows.
+[Cling](https://github.com/root-project/cling).exe build for Windows.
 
 Overview
 --------
